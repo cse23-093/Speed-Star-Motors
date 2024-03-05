@@ -8,6 +8,7 @@ h1
    color:brown;
  }
 body
-    {
-      background-color:grey;
+    {   
+  background-image: url("frontc.jpeg");
+  background-color: #cccccc    
     }
