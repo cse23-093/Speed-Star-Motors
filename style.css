@@ -9,8 +9,5 @@ h1
  }
 body
     {   
-  background-image: url("frontc.jpeg");
-  background-color: #cccccc  
-  background-repeat: no-repeat;
-  background-size: cover;
-    }
+  background-color: grey
+   }
