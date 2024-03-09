@@ -41,6 +41,11 @@
   transition: 0.5s; 
 }
 
+.navbar ul li:hover::after{
+width: 100%;
+}
+
+
 .content{
   width: 100%;
   position: absolute;
@@ -49,6 +54,7 @@
   text-align: center;
   color: white;
 }
+
 
 .content h1{
    font-size: 70px;
