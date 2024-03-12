@@ -78,7 +78,6 @@ button{
   background: transparent;
   color: white;
   cursor: pointer;
-  position: absolute;
 }
 span{
   background: #009688;
@@ -89,7 +88,6 @@ span{
   left: 0;
   bottom: 0;
   z-index: -1;
-  text-align: center;
 }
 
 
