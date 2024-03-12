@@ -85,7 +85,7 @@ span{
   height: 100%;
   width: 100%
   border-radius: 25px;
-  position: absolute;
+  position: relative;
   left: 0;
   bottom: 0;
   z-index: -1;
